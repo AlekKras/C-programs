@@ -11,10 +11,9 @@ namespace hello_world
             Console.WriteLine("It was a sunny day outside but I was in the office learning C#");
             Console.WriteLine("Then I looked at the watch and it was " + date1.ToString("HH:mm"));
             Console.WriteLine("Oh, hello there!!!");
-            string name;
-            Console.Write("How shalleth I calleth thy?");
-            name = Console.ReadLine();
-            Console.WriteLine("Hello, {0}! I have been learning C# since {1}", name, date1.ToString("d"));
+            Console.WriteLine("How shalleth I calleth thy?");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello, {0}! I have been learning C# since the day {1}", name, date1.ToString("d"));
         }
     }
 }
