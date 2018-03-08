@@ -1,0 +1,10 @@
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/bin/Debug/netcoreapp2.0/hello_world.deps.json
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/bin/Debug/netcoreapp2.0/hello_world.runtimeconfig.json
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/bin/Debug/netcoreapp2.0/hello_world.runtimeconfig.dev.json
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/bin/Debug/netcoreapp2.0/hello_world.dll
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/bin/Debug/netcoreapp2.0/hello_world.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/obj/Debug/netcoreapp2.0/hello_world.csproj.CoreCompileInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/obj/Debug/netcoreapp2.0/hello_world.AssemblyInfoInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/obj/Debug/netcoreapp2.0/hello_world.AssemblyInfo.cs
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/obj/Debug/netcoreapp2.0/hello_world.dll
+/home/aleksandr/Desktop/TEST_ASPNET/hello_world/obj/Debug/netcoreapp2.0/hello_world.pdb
