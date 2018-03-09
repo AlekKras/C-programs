@@ -1,0 +1,10 @@
+/home/aleksandr/Desktop/TEST_ASPNET/test/bin/Debug/netcoreapp2.0/test.deps.json
+/home/aleksandr/Desktop/TEST_ASPNET/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.json
+/home/aleksandr/Desktop/TEST_ASPNET/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.dev.json
+/home/aleksandr/Desktop/TEST_ASPNET/test/bin/Debug/netcoreapp2.0/test.dll
+/home/aleksandr/Desktop/TEST_ASPNET/test/bin/Debug/netcoreapp2.0/test.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/test/obj/Debug/netcoreapp2.0/test.csproj.CoreCompileInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/test/obj/Debug/netcoreapp2.0/test.AssemblyInfoInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
+/home/aleksandr/Desktop/TEST_ASPNET/test/obj/Debug/netcoreapp2.0/test.dll
+/home/aleksandr/Desktop/TEST_ASPNET/test/obj/Debug/netcoreapp2.0/test.pdb
