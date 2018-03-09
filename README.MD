@@ -13,6 +13,7 @@ In order to run something here, do the following:
 <li><a href="https://github.com/AlekKras/C-programs/tree/master/test">MVC simple model</a></li>
 </ol>
 <h2>3. Possible projects in the future </h2>
-<input type="checkbox">Facebook Chatbot</input>
-<input type="checkbox">Simple Android app</input>
+ - [x] Connect web app to database
+ - [ ] Facebook Chatbot
+ - [ ] Simple Android app
 
