@@ -1,0 +1,11 @@
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/bin/Debug/netcoreapp2.0/numbers.deps.json
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/bin/Debug/netcoreapp2.0/numbers.runtimeconfig.json
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/bin/Debug/netcoreapp2.0/numbers.runtimeconfig.dev.json
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/bin/Debug/netcoreapp2.0/numbers.dll
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/bin/Debug/netcoreapp2.0/numbers.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.csproj.CoreCompileInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.AssemblyInfoInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.AssemblyInfo.cs
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.dll
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/numbers/obj/Debug/netcoreapp2.0/numbers.csprojResolveAssemblyReference.cache
