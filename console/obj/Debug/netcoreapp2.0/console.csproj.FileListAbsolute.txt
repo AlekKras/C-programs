@@ -1,0 +1,11 @@
+/home/aleksandr/Desktop/TEST_ASPNET/console/bin/Debug/netcoreapp2.0/console.deps.json
+/home/aleksandr/Desktop/TEST_ASPNET/console/bin/Debug/netcoreapp2.0/console.runtimeconfig.json
+/home/aleksandr/Desktop/TEST_ASPNET/console/bin/Debug/netcoreapp2.0/console.runtimeconfig.dev.json
+/home/aleksandr/Desktop/TEST_ASPNET/console/bin/Debug/netcoreapp2.0/console.dll
+/home/aleksandr/Desktop/TEST_ASPNET/console/bin/Debug/netcoreapp2.0/console.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.csproj.CoreCompileInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.AssemblyInfoInputs.cache
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.AssemblyInfo.cs
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.dll
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.pdb
+/home/aleksandr/Desktop/TEST_ASPNET/console/obj/Debug/netcoreapp2.0/console.csprojResolveAssemblyReference.cache
